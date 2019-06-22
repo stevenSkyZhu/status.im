@@ -37,6 +37,13 @@
   </url>
   
   <url>
+    <loc>https://status.im/tutorials/extensions_wallet_settings.html</loc>
+    
+    <lastmod>2019-06-21T03:20:21.311Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://status.im/tutorials/pairing.html</loc>
     
     <lastmod>2019-06-21T03:20:21.311Z</lastmod>
@@ -45,13 +52,6 @@
   
   <url>
     <loc>https://status.im/tutorials/index.html</loc>
-    
-    <lastmod>2019-06-21T03:20:21.311Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://status.im/tutorials/extensions_wallet_settings.html</loc>
     
     <lastmod>2019-06-21T03:20:21.311Z</lastmod>
     
@@ -93,14 +93,14 @@
   </url>
   
   <url>
-    <loc>https://status.im/security/sec_threat_modeling.html</loc>
+    <loc>https://status.im/security/sec_sensitive_data.html</loc>
     
     <lastmod>2019-06-21T03:20:21.311Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://status.im/security/sec_sensitive_data.html</loc>
+    <loc>https://status.im/security/sec_threat_modeling.html</loc>
     
     <lastmod>2019-06-21T03:20:21.311Z</lastmod>
     
@@ -121,14 +121,14 @@
   </url>
   
   <url>
-    <loc>https://status.im/security/sec_existing_features.html</loc>
+    <loc>https://status.im/security/sec_experiment.html</loc>
     
     <lastmod>2019-06-21T03:20:21.311Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://status.im/security/sec_experiment.html</loc>
+    <loc>https://status.im/security/sec_existing_features.html</loc>
     
     <lastmod>2019-06-21T03:20:21.311Z</lastmod>
     
@@ -142,14 +142,14 @@
   </url>
   
   <url>
-    <loc>https://status.im/research/whisper_pss.html</loc>
+    <loc>https://status.im/research/whisper_faqs.html</loc>
     
     <lastmod>2019-06-21T03:20:21.311Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://status.im/research/whisper_faqs.html</loc>
+    <loc>https://status.im/research/whisper_pss.html</loc>
     
     <lastmod>2019-06-21T03:20:21.311Z</lastmod>
     
@@ -163,21 +163,14 @@
   </url>
   
   <url>
+    <loc>https://status.im/research/extended_features.html</loc>
+    
+    <lastmod>2019-06-21T03:20:21.307Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://status.im/research/pfs.html</loc>
-    
-    <lastmod>2019-06-21T03:20:21.307Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://status.im/keycard_api/sdk_pinless.html</loc>
-    
-    <lastmod>2019-06-21T03:20:21.307Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://status.im/keycard_api/apdu_setpinlesspath.html</loc>
     
     <lastmod>2019-06-21T03:20:21.307Z</lastmod>
     
@@ -191,13 +184,6 @@
   </url>
   
   <url>
-    <loc>https://status.im/keycard_api/sdk_installation.html</loc>
-    
-    <lastmod>2019-06-21T03:20:21.307Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://status.im/research/index.html</loc>
     
     <lastmod>2019-06-21T03:20:21.307Z</lastmod>
@@ -205,7 +191,7 @@
   </url>
   
   <url>
-    <loc>https://status.im/research/extended_features.html</loc>
+    <loc>https://status.im/keycard_api/apdu_sign.html</loc>
     
     <lastmod>2019-06-21T03:20:21.307Z</lastmod>
     
@@ -275,7 +261,14 @@
   </url>
   
   <url>
-    <loc>https://status.im/keycard_api/sdk_duplication.html</loc>
+    <loc>https://status.im/keycard_api/sdk_pinless.html</loc>
+    
+    <lastmod>2019-06-21T03:20:21.307Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://status.im/keycard_api/sdk_create_wallet.html</loc>
     
     <lastmod>2019-06-21T03:20:21.307Z</lastmod>
     
@@ -289,7 +282,21 @@
   </url>
   
   <url>
+    <loc>https://status.im/keycard_api/sdk_duplication.html</loc>
+    
+    <lastmod>2019-06-21T03:20:21.307Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://status.im/keycard_api/sdk_export.html</loc>
+    
+    <lastmod>2019-06-21T03:20:21.307Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://status.im/keycard_api/sdk_installation.html</loc>
     
     <lastmod>2019-06-21T03:20:21.307Z</lastmod>
     
@@ -310,7 +317,7 @@
   </url>
   
   <url>
-    <loc>https://status.im/keycard_api/sdk_create_wallet.html</loc>
+    <loc>https://status.im/keycard_api/index.html</loc>
     
     <lastmod>2019-06-21T03:20:21.307Z</lastmod>
     
@@ -331,7 +338,7 @@
   </url>
   
   <url>
-    <loc>https://status.im/keycard_api/index.html</loc>
+    <loc>https://status.im/keycard_api/apdu_unpair.html</loc>
     
     <lastmod>2019-06-21T03:20:21.307Z</lastmod>
     
@@ -352,20 +359,6 @@
   </url>
   
   <url>
-    <loc>https://status.im/keycard_api/apdu_unpair.html</loc>
-    
-    <lastmod>2019-06-21T03:20:21.307Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://status.im/keycard_api/apdu_sign.html</loc>
-    
-    <lastmod>2019-06-21T03:20:21.307Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://status.im/keycard_api/apdu_setndef.html</loc>
     
     <lastmod>2019-06-21T03:20:21.307Z</lastmod>
@@ -373,21 +366,21 @@
   </url>
   
   <url>
-    <loc>https://status.im/keycard_api/apdu_changelog.html</loc>
+    <loc>https://status.im/keycard_api/apdu_setpinlesspath.html</loc>
+    
+    <lastmod>2019-06-21T03:20:21.307Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://status.im/join/index.html</loc>
     
     <lastmod>2019-06-21T03:20:21.303Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://status.im/get-involved/educators/index.html</loc>
-    
-    <lastmod>2019-06-21T03:20:21.303Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://status.im/extensions/extension_types.html</loc>
+    <loc>https://status.im/extensions/examples.html</loc>
     
     <lastmod>2019-06-21T03:20:21.303Z</lastmod>
     
@@ -422,13 +415,6 @@
   </url>
   
   <url>
-    <loc>https://status.im/extensions/reference_views.html</loc>
-    
-    <lastmod>2019-06-21T03:20:21.303Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://status.im/extensions/workflow.html</loc>
     
     <lastmod>2019-06-21T03:20:21.303Z</lastmod>
@@ -436,7 +422,7 @@
   </url>
   
   <url>
-    <loc>https://status.im/features/index.html</loc>
+    <loc>https://status.im/extensions/reference_views.html</loc>
     
     <lastmod>2019-06-21T03:20:21.303Z</lastmod>
     
@@ -450,7 +436,14 @@
   </url>
   
   <url>
-    <loc>https://status.im/get-involved/community-groups/index.html</loc>
+    <loc>https://status.im/features/index.html</loc>
+    
+    <lastmod>2019-06-21T03:20:21.303Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://status.im/extensions/extension_types.html</loc>
     
     <lastmod>2019-06-21T03:20:21.303Z</lastmod>
     
@@ -492,7 +485,7 @@
   </url>
   
   <url>
-    <loc>https://status.im/guides/desktop_inline_eval.html</loc>
+    <loc>https://status.im/guides/security_month.html</loc>
     
     <lastmod>2019-06-21T03:20:21.303Z</lastmod>
     
@@ -506,6 +499,13 @@
   </url>
   
   <url>
+    <loc>https://status.im/guides/desktop_inline_eval.html</loc>
+    
+    <lastmod>2019-06-21T03:20:21.303Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://status.im/index.html</loc>
     
     <lastmod>2019-06-21T03:20:21.303Z</lastmod>
@@ -513,14 +513,7 @@
   </url>
   
   <url>
-    <loc>https://status.im/guides/security_month.html</loc>
-    
-    <lastmod>2019-06-21T03:20:21.303Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://status.im/join/index.html</loc>
+    <loc>https://status.im/keycard_api/apdu_changelog.html</loc>
     
     <lastmod>2019-06-21T03:20:21.303Z</lastmod>
     
@@ -548,14 +541,14 @@
   </url>
   
   <url>
-    <loc>https://status.im/keycard_api/apdu_generatekey.html</loc>
+    <loc>https://status.im/keycard_api/apdu_exportkey.html</loc>
     
     <lastmod>2019-06-21T03:20:21.303Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://status.im/keycard_api/apdu_exportkey.html</loc>
+    <loc>https://status.im/keycard_api/apdu_generatekey.html</loc>
     
     <lastmod>2019-06-21T03:20:21.303Z</lastmod>
     
@@ -576,14 +569,14 @@
   </url>
   
   <url>
-    <loc>https://status.im/keycard_api/apdu_init.html</loc>
+    <loc>https://status.im/keycard_api/apdu_loadkey.html</loc>
     
     <lastmod>2019-06-21T03:20:21.303Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://status.im/keycard_api/apdu_loadkey.html</loc>
+    <loc>https://status.im/keycard_api/apdu_init.html</loc>
     
     <lastmod>2019-06-21T03:20:21.303Z</lastmod>
     
@@ -597,14 +590,14 @@
   </url>
   
   <url>
-    <loc>https://status.im/keycard_api/apdu_overview.html</loc>
+    <loc>https://status.im/keycard_api/apdu_pair.html</loc>
     
     <lastmod>2019-06-21T03:20:21.303Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://status.im/keycard_api/apdu_pair.html</loc>
+    <loc>https://status.im/keycard_api/apdu_overview.html</loc>
     
     <lastmod>2019-06-21T03:20:21.303Z</lastmod>
     
@@ -625,7 +618,14 @@
   </url>
   
   <url>
-    <loc>https://status.im/get-involved/developers/index.html</loc>
+    <loc>https://status.im/get-involved/community-groups/index.html</loc>
+    
+    <lastmod>2019-06-21T03:20:21.303Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://status.im/get-involved/educators/index.html</loc>
     
     <lastmod>2019-06-21T03:20:21.303Z</lastmod>
     
@@ -639,28 +639,21 @@
   </url>
   
   <url>
-    <loc>https://status.im/extensions/examples.html</loc>
+    <loc>https://status.im/get-involved/developers/index.html</loc>
     
     <lastmod>2019-06-21T03:20:21.303Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://status.im/docs/testing.html</loc>
-    
-    <lastmod>2019-06-21T03:20:21.299Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://status.im/docs/technical_documentation.html</loc>
-    
-    <lastmod>2019-06-21T03:20:21.299Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://status.im/docs/tribute_to_talk.html</loc>
+    
+    <lastmod>2019-06-21T03:20:21.299Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://status.im/docs/testing.html</loc>
     
     <lastmod>2019-06-21T03:20:21.299Z</lastmod>
     
@@ -674,9 +667,23 @@
   </url>
   
   <url>
+    <loc>https://status.im/docs/technical_documentation.html</loc>
+    
+    <lastmod>2019-06-21T03:20:21.299Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://status.im/docs/send_transaction_flow.html</loc>
     
     <lastmod>2019-06-21T03:20:21.299Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://status.im/docs/report_a_bug.html</loc>
+    
+    <lastmod>2019-06-21T03:20:21.295Z</lastmod>
     
   </url>
   
@@ -688,7 +695,7 @@
   </url>
   
   <url>
-    <loc>https://status.im/docs/run_status_node.html</loc>
+    <loc>https://status.im/docs/index.html</loc>
     
     <lastmod>2019-06-21T03:20:21.295Z</lastmod>
     
@@ -709,13 +716,6 @@
   </url>
   
   <url>
-    <loc>https://status.im/docs/FAQ-desktop.html</loc>
-    
-    <lastmod>2019-06-21T03:20:21.295Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://status.im/docs/FAQs.html</loc>
     
     <lastmod>2019-06-21T03:20:21.295Z</lastmod>
@@ -723,28 +723,28 @@
   </url>
   
   <url>
-    <loc>https://status.im/docs/report_a_bug.html</loc>
+    <loc>https://status.im/docs/FAQ-desktop.html</loc>
     
     <lastmod>2019-06-21T03:20:21.295Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://status.im/docs/index.html</loc>
+    <loc>https://status.im/docs/run_status_node.html</loc>
     
     <lastmod>2019-06-21T03:20:21.295Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://status.im/contribute/statusphere.html</loc>
+    <loc>https://status.im/developer_tools/status_web_api.html</loc>
     
     <lastmod>2019-06-21T03:20:21.291Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://status.im/developer_tools/intro_extensions.html</loc>
+    <loc>https://status.im/developer_tools/http_debugging.html</loc>
     
     <lastmod>2019-06-21T03:20:21.291Z</lastmod>
     
@@ -765,7 +765,7 @@
   </url>
   
   <url>
-    <loc>https://status.im/developer_tools/http_debugging.html</loc>
+    <loc>https://status.im/contribute/statusphere.html</loc>
     
     <lastmod>2019-06-21T03:20:21.291Z</lastmod>
     
@@ -779,14 +779,14 @@
   </url>
   
   <url>
-    <loc>https://status.im/developer_tools/debug.html</loc>
+    <loc>https://status.im/developer_tools/assets_guidelines.html</loc>
     
     <lastmod>2019-06-21T03:20:21.291Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://status.im/developer_tools/assets_guidelines.html</loc>
+    <loc>https://status.im/developer_tools/debug.html</loc>
     
     <lastmod>2019-06-21T03:20:21.291Z</lastmod>
     
@@ -800,28 +800,7 @@
   </url>
   
   <url>
-    <loc>https://status.im/developer_tools/access_eth_provider.html</loc>
-    
-    <lastmod>2019-06-21T03:20:21.291Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://status.im/developer_tools/add_you_own_network.html</loc>
-    
-    <lastmod>2019-06-21T03:20:21.291Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://status.im/contribute/the_future.html</loc>
-    
-    <lastmod>2019-06-21T03:20:21.291Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://status.im/developer_tools/status_web_api.html</loc>
     
     <lastmod>2019-06-21T03:20:21.291Z</lastmod>
     
@@ -835,14 +814,28 @@
   </url>
   
   <url>
-    <loc>https://status.im/contribute/perks_benefits.html</loc>
+    <loc>https://status.im/developer_tools/access_eth_provider.html</loc>
     
-    <lastmod>2019-06-21T03:20:21.287Z</lastmod>
+    <lastmod>2019-06-21T03:20:21.291Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://status.im/contribute/our_principles.html</loc>
+    <loc>https://status.im/contribute/the_future.html</loc>
+    
+    <lastmod>2019-06-21T03:20:21.291Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://status.im/developer_tools/intro_extensions.html</loc>
+    
+    <lastmod>2019-06-21T03:20:21.291Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://status.im/build_status/desktop.html</loc>
     
     <lastmod>2019-06-21T03:20:21.287Z</lastmod>
     
@@ -905,14 +898,14 @@
   </url>
   
   <url>
-    <loc>https://status.im/build_status/desktop_troubleshooting.html</loc>
+    <loc>https://status.im/build_status/index.html</loc>
     
     <lastmod>2019-06-21T03:20:21.287Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://status.im/build_status/index.html</loc>
+    <loc>https://status.im/build_status/desktop_troubleshooting.html</loc>
     
     <lastmod>2019-06-21T03:20:21.287Z</lastmod>
     
@@ -926,14 +919,14 @@
   </url>
   
   <url>
-    <loc>https://status.im/build_status/desktop.html</loc>
+    <loc>https://status.im/build_status/desktop_google_breakpad.html</loc>
     
     <lastmod>2019-06-21T03:20:21.287Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://status.im/build_status/desktop_google_breakpad.html</loc>
+    <loc>https://status.im/contribute/our_principles.html</loc>
     
     <lastmod>2019-06-21T03:20:21.287Z</lastmod>
     
@@ -954,14 +947,14 @@
   </url>
   
   <url>
-    <loc>https://status.im/analytics/introduction.html</loc>
+    <loc>https://status.im/analytics/oss.html</loc>
     
     <lastmod>2019-06-21T03:20:21.287Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://status.im/analytics/oss.html</loc>
+    <loc>https://status.im/analytics/introduction.html</loc>
     
     <lastmod>2019-06-21T03:20:21.287Z</lastmod>
     
@@ -982,7 +975,14 @@
   </url>
   
   <url>
-    <loc>https://status.im/analytics/app_downloads.html</loc>
+    <loc>https://status.im/contribute/perks_benefits.html</loc>
+    
+    <lastmod>2019-06-21T03:20:21.287Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://status.im/analytics/crypto_oss.html</loc>
     
     <lastmod>2019-06-21T03:20:21.271Z</lastmod>
     
@@ -996,7 +996,7 @@
   </url>
   
   <url>
-    <loc>https://status.im/analytics/crypto_oss.html</loc>
+    <loc>https://status.im/analytics/app_downloads.html</loc>
     
     <lastmod>2019-06-21T03:20:21.271Z</lastmod>
     
