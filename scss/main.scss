@@ -596,6 +596,91 @@ header{
     font-family: $manrope;
     position: relative;
     z-index: 990;
+    .language-selector{
+        display: inline-block;
+        position: relative;
+        &:hover, &.active{
+            .language-selector-trigger{
+                color: $white;
+                background: $black;
+                &:after{
+                    background-image: url(../img/icon-arrow-right-white-hover.svg);
+                }
+            }
+            ul{
+                visibility: visible;
+                opacity: 1;
+                pointer-events: all;
+                transform: translate3d(0,0,0) scale(1);
+            }
+        }
+        .language-selector-trigger{
+            padding-right: 40px;
+            text-transform: capitalize;
+            &:after{
+                display: flex;
+                transform: rotate(90deg);
+            }
+        }
+        ul{
+            position: absolute;
+            background: $white;
+            box-shadow: 0px 2px 14px rgba(9, 9, 9, 0.25);
+            border-radius: 4px;
+            z-index: 9;
+            left: 15px;
+            top: calc(100% + 10px);
+            padding: 0;
+            flex-direction: column;
+            list-style-type: none;
+            text-align: left;
+            opacity: 0;
+            transform: translate3d(0,15px,0) scale(.96);
+            visibility: hidden;
+            transition: all .3s ease;
+            pointer-events: none;
+            box-shadow: none;
+            border-radius: 2px;
+            left: 30px;
+            box-shadow: 0px 2px 14px rgba(158, 158, 158, 0.3);
+            &:before{
+                content: '';
+                width: 100%;
+                z-index: -1;
+                position: absolute;
+                top: -10px;
+                left: 0;
+                height: 10px;
+            }
+            li{
+                &:last-child{
+                    a{
+                        border-bottom: none;
+                    }
+                }
+                &.active{
+                    a{
+                        color: $purple;
+                        background: rgba( $purple, .05 )
+                    }
+                }
+                a{
+                    font-size: 14px;
+                    padding: 8px 0;
+                    display: block;
+                    width: 100%;
+                    border-bottom: 1px solid rgba( $black, .1 );
+                    padding: 11px 16px;
+                    font-family: $ibm-plex-mono;
+                    color: $black;
+                    font-weight: $ibm-plex-mono-semi-bold;
+                    &:hover{
+                        color: $purple;
+                    }
+                }
+            }
+        }
+    }
     nav{
         margin-top: -30px;
         margin-bottom: -30px;
@@ -739,7 +824,7 @@ header{
                     }
                 }
                 a{
-                    padding: 10px 30px;
+                    padding: 10px 20px;
                     font-size: 16px;
                     color: $dark-grey;
                     font-weight: $manrope-semi-bold;
@@ -2970,10 +3055,18 @@ img.qr-code{
             ul{
                 li{
                     a{
-                        padding: 10px 20px;
+                        padding: 10px 15px;
                         font-size: 15px;
                     }
                 }
+            }
+        }
+        .btn{
+            margin-left: 15px;
+        }
+        .language-selector{
+            ul{
+                left: 15px;
             }
         }
     }
@@ -3229,20 +3322,6 @@ img.qr-code{
     }
 }
 
-@media screen and (max-width: 1300px) {
-    header{
-        nav{
-            ul{
-                li{
-                    a{
-                        padding: 0 20px;
-                    }
-                }
-            }
-        }
-    }
-}
-
 @media screen and (max-width: 1199px) {
     h1{
         line-height: 44px;
@@ -3297,11 +3376,28 @@ img.qr-code{
                 }
             }
             .btns{
-                display: block;
+                display: flex;
+                flex-direction: column;
+                position: static;
                 .btn{
                     padding-right: 40px;
                     &:after{
                         display: block;
+                    }
+                }
+            }
+            .language-selector{
+                order: 1;
+                margin-top: 10px;
+                ul{
+                    top: auto;
+                    bottom: -10px;
+                    width: calc(100% - 10px);
+                    left: 5px;
+                    li{
+                        a{
+                            display: block;
+                        }
                     }
                 }
             }
@@ -3323,6 +3419,8 @@ img.qr-code{
             opacity: 1;
             transform: translate3d(0,0,0) scale(1);
             pointer-events: all;
+            overflow: auto;
+            max-height: calc(100vh - 20px);
         }
         .backdrop{
             visibility: visible;
